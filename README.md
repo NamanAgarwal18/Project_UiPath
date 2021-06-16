@@ -2,6 +2,9 @@
 
 [<h3>For Video Demonstration Click Here</h3>](https://youtu.be/htjwrcNBgVg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htjwrcNBgVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/htjwrcNBgVg
+" target="_blank"><img src="https://www.youtube.com/embed/htjwrcNBgVg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Problem Statement
 Our project is aimed to help Computer professors of various colleges in their evaluation of lab programs. In the current online scenario after every lab the professor has to download programs from a long list of github links posted by students and then individually run them, check the outputs, mark the student and then save the program for record purposes. In a class generally there are around 60 students and every student does one or more problem as the part of the lab assignment every week. This work every week can add up to be a daunting task for the professors.
