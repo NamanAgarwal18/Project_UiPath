@@ -19,13 +19,13 @@ Our project is aimed to help Computer professors of various colleges in their ev
  | Naman         | https://raw.githubusercontent.com/NamanAgarwal18/Project_UiPath/main/prog.cpp |
  | Ruttazeet     | https://raw.githubusercontent.com/nimitsajal99/RPA/main/correct.cpp           |
 
-2. Then the **Web Recorder** starts:
+2. After that the **Web Recorder** is started. We use **Microsoft Edge** as the preferred browser. The Web Recorder executes the followinng steps:
     * It Opens all the links one by one
     * Coppies all the code
     * Saves all the code by th ename of the student with the **".cpp"** extention.
     * Closes all the web windows
     
-    + We use **Microsoft Edge** as the preferred browser.
+    
 
 
 
