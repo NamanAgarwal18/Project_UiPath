@@ -37,6 +37,8 @@ Our project is aimed to help Computer professors of various colleges in their ev
     * *If the file is downloaded:*
        * Then we sure the code is opened correctly in **DEV C++** compiler.
        * Then the code is ```RUN```
+       * Then the output of the code is Screenshotted (using **Take Screenshot Activity**) and then saved (using **Save Image Activity**) with the respective student's name.
+       * Then the text
     
     
 
