@@ -55,6 +55,8 @@ Our project is aimed to help Computer professors of various colleges in their ev
      * After that the datatable variable is appended in an Excel File named **"Links.xlsx"** in the **"Checked"** Sheet.
 5. The program execution ends and the output saved looks like:
 
+ | Name          | Output            |
+ | ------------- |:-----------------:|
  | Nimit         | Incorrect Output  |
  | Ritik         |                   | 
  | Naman         | Compilation Error |
