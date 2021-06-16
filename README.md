@@ -31,7 +31,10 @@ Our project is aimed to help Computer professors of various colleges in their ev
     * Builds the code in **DEV C++**
     * Closes the window (using **Close Application Activity**)
     * *If there is no file is downloaded for a student then that student is ignored in this process*
-4. After that in a loop we start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
+4. After that in a loop we again start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
+    * *If the file is not downloaded:*
+       * Then an empty string value (i.e. **""**) is stored in a datatable to be appended in the output
+    * *If the file is downloaded:*
     
     
 
