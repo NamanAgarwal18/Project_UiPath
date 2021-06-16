@@ -42,9 +42,9 @@ Our project is aimed to help Computer professors of various colleges in their ev
        * Then the text is retrieved from the image via **"Microsoft OCR"** and then saved in a variable.
        * Then we check if the string contains our desired output using **.Contains()** (in this case our desired output is **"Hello World"** )
        * *If the output matches:* 
-          *  Then the string ```Correct``` along with the name of the student is stored in a datatable to be appended in the output.
+         *  Then the string ```Correct``` along with the name of the student is stored in a datatable to be appended in the output.
        * *If the output does not match:* 
-          *  Then the string ```Incorrect Output``` along with the name of the student is stored in a datatable to be appended in the output.
+         *  Then the string ```Incorrect Output``` along with the name of the student is stored in a datatable to be appended in the output.
      * *If the file is downloaded and there is compilation error:*
        * Then we sure the code is opened correctly in **DEV C++** compiler.
        * Then the code is ```RUN```
