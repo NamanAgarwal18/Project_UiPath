@@ -33,8 +33,10 @@ Our project is aimed to help Computer professors of various colleges in their ev
     * *If there is no file is downloaded for a student then that student is ignored in this process*
 4. After that in a loop we again start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
     * *If the file is not downloaded:*
-       * Then an empty string value (i.e. <b> "" </b>) is stored in a datatable to be appended in the output
+       * Then an empty string value (i.e. "" ) along with the name of the student is stored in a datatable to be appended in the output.
     * *If the file is downloaded:*
+       * Then we sure the code is opened correctly in **DEV C++** compiler.
+       * Then the code is ```RUN```
     
     
 
