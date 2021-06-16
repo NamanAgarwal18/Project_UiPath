@@ -3,7 +3,7 @@
 [<h3>For Video Demonstration Click Here</h3>](https://youtu.be/htjwrcNBgVg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htjwrcNBgVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=htjwrcNBgVg/0.jpg" 
+<a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/htjwrcNBgVg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Problem Statement
