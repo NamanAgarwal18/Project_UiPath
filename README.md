@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/htjwrcNBgVg/hqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="375" border="20" /></a> 
-[<h3>Video Demonstration</h3>](https://youtu.be/htjwrcNBgVg)
+[<h3>Click Here To Watch The Video Demonstration</h3>](https://youtu.be/htjwrcNBgVg)
 
 
 ### Problem Statement
