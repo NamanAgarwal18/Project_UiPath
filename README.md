@@ -14,10 +14,10 @@ Our project is aimed to help Computer professors of various colleges in their ev
 * Microsoft OCR
 * Basic Recording
 * Web Recording
-
+***
 ### Input Required
 The only input required is a Excel File named **"Links.xlsx"** 
-
+***
 ### Output Obtained
 1. A folder containing
   * All the programs saved by student's name
@@ -28,7 +28,7 @@ The only input required is a Excel File named **"Links.xlsx"**
   * Problem during compilation = **Compilation Error**
   * Incorrect Output after compilation = **Incorrect Output**
   * Correct Output after compilation = **Correct**
-
+***
 ### Execution Algorithm
 1. Our project reads all the Github raw links from an Excel File named **"Links.xlsx"** form the **"Input"** sheet and puts it in a datatable.
 
@@ -81,7 +81,7 @@ The only input required is a Excel File named **"Links.xlsx"**
  | Ritik         |                   | 
  | Naman         | Compilation Error |
  | Ruttazeet     | Correct           |
-
+***
 ### Limitations of the program
 * No Comments can be there in the program. 
 * No headerfile should be there.
