@@ -21,13 +21,17 @@ Our project is aimed to help Computer professors of various colleges in their ev
 
 2. After that the **Web Recorder** is started. We use **Microsoft Edge** as the preferred browser. The Web Recorder executes the followinng steps:
     * It Opens all the links one by one
-    * Coppies all the code using (**Get Visible Text Activity**)
+    * Coppies all the code (using **Get Visible Text Activity**)
     * Saves all the code by th ename of the student with the **".cpp"** extention.
-    * Closes all the web windows using **"Close Tab Activity"**
+    * Closes all the web windows (using **Close Tab Activity**)
+    * *If there is no link present for a student then no browser is opened and no file is downloaded *
 3. After that in a loop we start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
     * Makes sure the code is opened correctly in **DEV C++** compiler.
-    * Starts to type (**Type Into Activity**) the HeaderFile ```#include<bits/stdc++.h>``` at the start of the code and press ```Enter```
-    * 
+    * Starts to type (using **Type Into Activity**) the HeaderFile ```#include<bits/stdc++.h>``` at the start of the code and press ```Enter```
+    * Builds the code in **DEV C++**
+    * Closes the window (using **Close Application Activity**)
+    * *If there is no file is downloaded for a student then that student is ignored in this process*
+4. After that in a loop we start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
     
     
 
