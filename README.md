@@ -10,7 +10,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="375" border="20" /></a>
 Our project is aimed to help Computer professors of various colleges in their evaluation of lab programs. In the current online scenario after every lab the professor has to download programs from a long list of github links posted by students and then individually run them, check the outputs, mark the student and then save the program for record purposes. In a class generally there are around 60 students and every student does one or more problem as the part of the lab assignment every week. This work every week can add up to be a daunting task for the professors.
 
 ### Description
-1. Our project reads all the Github raw links from an Excel sheet named **"Links.xlsx"** form the **"Input"** sheet and puts it in a datatable.
+1. Our project reads all the Github raw links from an Excel File named **"Links.xlsx"** form the **"Input"** sheet and puts it in a datatable.
 
  | Name          | Link                                                                          |
  | ------------- |:-----------------------------------------------------------------------------:|
@@ -52,7 +52,13 @@ Our project is aimed to help Computer professors of various colleges in their ev
        * When we don't find the element after 2 seconds then we understand that there is no compiled file and there must be a compilation error in the code.
        * Then the window is closed (using **Close Application Activity**)
        * Then the string ```Compilation Error``` along with the name of the student is stored in a datatable to be appended in the output.
-    
+     * After that the datatable variable is appended in an Excel File named **"Links.xlsx"** in the **"Checked"** Sheet.
+5. The program execution ends and the output saved looks like:
+
+ | Nimit         | Incorrect Output  |
+ | Ritik         |                   | 
+ | Naman         | Compilation Error |
+ | Ruttazeet     | Correct           |
 
 
 
