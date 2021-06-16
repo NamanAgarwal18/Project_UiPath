@@ -28,7 +28,7 @@ Our project is aimed to help Computer professors of various colleges in their ev
 3. After that in a loop we start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
     * Makes sure the code is opened correctly in **DEV C++** compiler.
     * Starts to type (using **Type Into Activity**) the HeaderFile ```#include<bits/stdc++.h>``` at the start of the code and press ```Enter```
-    * Builds the code in **DEV C++**
+    * The code is ```Build``` in **DEV C++**
     * Closes the window (using **Close Application Activity**)
     * *If there is no file is downloaded for a student then that student is ignored in this process*
 4. After that in a loop we again start opening up each program indivitually and start the **Basic Recorder**. The Basic Recorder executes the following steps:
