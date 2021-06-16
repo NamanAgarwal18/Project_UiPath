@@ -20,10 +20,10 @@ Our project is aimed to help Computer professors of various colleges in their ev
  | Ruttazeet     | https://raw.githubusercontent.com/nimitsajal99/RPA/main/correct.cpp           |
 
 2. Then the **Web Recorder** starts:
-  * It Opens all the links one by one
-  * Coppies all the code
-  * Saves all the code by th ename of the student with the **".cpp"** extention.
-  * Closes all the web windows
+      * It Opens all the links one by one
+    * Coppies all the code
+        * Saves all the code by th ename of the student with the **".cpp"** extention.
+    * Closes all the web windows
 ...We use **Microsoft Edge** as the preferred browser.
 
 
