@@ -1,6 +1,8 @@
 <h1>UiPath Studio Project</h1>
 
-[<h3>For Video Demonstration Click Here</h3>](https://youtu.be/htjwrcNBgVg) | <a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/htjwrcNBgVg/hqdefault.jpg" 
+[<h3>For Video Demonstration Click Here</h3>](https://youtu.be/htjwrcNBgVg)
+
+<a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/htjwrcNBgVg/hqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="225" border="12" /></a> 
 
 
