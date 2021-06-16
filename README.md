@@ -6,7 +6,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="375" border="20" /></a>
 [<h3>Click Here To Watch The Video Demonstration</h3>](https://youtu.be/htjwrcNBgVg)
 
 
-## Problem Statement
+### Problem Statement
 Our project is aimed to help Computer professors of various colleges in their evaluation of lab programs. In the current online scenario after every lab the professor has to download programs from a long list of github links posted by students and then individually run them, check the outputs, mark the student and then save the program for record purposes. In a class generally there are around 60 students and every student does one or more problem as the part of the lab assignment every week. This work every week can add up to be a daunting task for the professors.
 
 ### Technologies Incorporated 
@@ -14,6 +14,20 @@ Our project is aimed to help Computer professors of various colleges in their ev
 * Microsoft OCR
 * Basic Recording
 * Web Recording
+
+### Input Required
+The only input required is a Excel File named **"Links.xlsx"** 
+
+### Output Obtained
+1. A folder containing
+  * All the programs saved by student's name
+  * Executable files for all the programs saved by the student's name
+  * Output screenshot saved by the student's name  
+2. An Excel sheet containg final evaluation result of all the students. There can be 4 possible outcomes for each student :
+  * No Link Given = **""**
+  * Problem during compilation = **Compilation Error**
+  * Incorrect Output after compilation = **Incorrect Output**
+  * Correct Output after compilation = **Correct**
 
 ### Execution Algorithm
 1. Our project reads all the Github raw links from an Excel File named **"Links.xlsx"** form the **"Input"** sheet and puts it in a datatable.
@@ -68,5 +82,10 @@ Our project is aimed to help Computer professors of various colleges in their ev
  | Naman         | Compilation Error |
  | Ruttazeet     | Correct           |
 
-
+### Limitations of the program
+* No Comments can be there in the program. 
+* No headerfile should be there.
+* Can only compile C++ code as of now.
+* Can not add input for the code as of now. 
+* Can not change the directory of the input or the output for now.
 
