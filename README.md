@@ -1,4 +1,4 @@
-<h1 align="Center"> UiPath Studio Project </h1>
+<h1> UiPath Studio Project </h1>
 
 
 <a href="https://www.youtube.com/embed/htjwrcNBgVg" target="_blank"><img src="http://img.youtube.com/vi/htjwrcNBgVg/hqdefault.jpg" 
@@ -32,8 +32,6 @@ The only input required is a Excel File named **"Links.xlsx"**
 ***
 ### Execution Algorithm
 1. Our project reads all the Github raw links from an Excel File named **"Links.xlsx"** form the **"Input"** sheet and puts it in a datatable.
-
-<center>
  
  | Name          | Link                                                                          |
  | ------------- |:-----------------------------------------------------------------------------:|
@@ -42,8 +40,6 @@ The only input required is a Excel File named **"Links.xlsx"**
  | Naman         | https://raw.githubusercontent.com/NamanAgarwal18/Project_UiPath/main/prog.cpp |
  | Ruttazeet     | https://raw.githubusercontent.com/nimitsajal99/RPA/main/correct.cpp           |
  
-</center>
-
 2. After that the **Web Recorder** is started. We use **Microsoft Edge** as the preferred browser. The Web Recorder executes the followinng steps:
     * It Opens all the links one by one
     * Coppies all the code (using **Get Visible Text Activity**)
